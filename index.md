@@ -1,7 +1,8 @@
 # Me
 
-![pfp](pfp.jpg)
-Hello i am John Zioupos otherwise known as JohnVictoryz or tutel or tutelwastaken
+<img src="pfp.jpg" alt="drawing" width="200"/>
+
+Hello i am John Zioupos otherwise known as JohnVictoryz or tutel or tutelwastaken \
 I live in Greece and i am very much the Computer geek/Fanatic gamer
 
 ## The pages bellow point to all the achivements
