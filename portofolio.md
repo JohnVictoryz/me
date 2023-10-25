@@ -6,7 +6,7 @@ So this is my portofolio
 
 ### English
 
-- BCCE (Basic Communication Certificate in English) Obtained in: September 2022
+- BCCE (Level B1) Obtained in: September 2022
 - ECCE (Level B2) Obtained in: September 2023
 - **EXPECTED TO BE OBTAINED** ECPE (Level C1) Will be Obtained in: September 2024
 
